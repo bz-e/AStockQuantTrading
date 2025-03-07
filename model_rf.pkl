@@ -1,0 +1,1 @@
+/Users/wangyan/CascadeProjects/AStockQuantTrading/models/model_rf.pkl
