@@ -188,7 +188,7 @@ pip install -r requirements.txt
 ### 1. 训练预测模型
 
 ```bash
-python enhanced_ml_prediction.py --stock 002179.SZ --days 5 --model rf --period 365
+python enhanced_ml_prediction.py  --stock 600797.SH --days 365  --model xgb -f 5  --feature-selection --feature-method combined  --use-pca --hyperopt
 ```
 
 参数说明:
